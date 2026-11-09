@@ -1,0 +1,21 @@
+{
+  "name": "college-time-table-mangment",
+  "version": "1.0.0",
+  "description": "> A full-functional web-based scheduling and management system built for educational institutions with multi-shift operations, automated conflict detection, and dynamic lecture swapping.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mudasiri01/College-Time-Table.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mudasiri01/College-Time-Table/issues"
+  },
+  "homepage": "https://github.com/Mudasiri01/College-Time-Table#readme"
+}
