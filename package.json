@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/Mudasiri01/College-Time-Table/issues"
   },
-  "homepage": "https://github.com/Mudasiri01/College-Time-Table#readme"
+  "homepage": "https://github.com/Mudasiri01/College-Time-Table#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "mongoose": "^9.12.1"
+  }
 }
